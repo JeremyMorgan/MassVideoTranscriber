@@ -50,9 +50,9 @@ Mass Video Transcriber is a Python script that processes video files to extract 
 
 ## Folder Structure
 
-- **videos**: Directory containing input video files.
-- **audio**: Directory for storing extracted audio files.
-- **results**: Directory for storing transcription text files.
+- **/videos**: Directory containing input video files.
+- **/audio**: Directory for storing extracted audio files.
+- **/results**: Directory for storing transcription text files.
 
 ## Example
 
