@@ -1,4 +1,4 @@
-# MassVideoTranscriber
+# Mass Video Transcriber
 
 Mass Video Transcriber is a Python script that processes video files to extract audio, transcribe the audio using the Whisper model, and save the transcriptions as text files. The script preserves the directory structure of the input files in the output directories.
 
